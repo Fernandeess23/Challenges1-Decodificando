@@ -108,3 +108,4 @@ function botaoEncrypt() {
       botaoDeCopiar.textContent = "Copiado!";
     });
   }
+  
